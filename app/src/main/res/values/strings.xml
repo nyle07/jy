@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">简·阅</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">设置</string>
+    <string name="send">发 送</string>
+    <string name="science">新闻速递</string>
+    <string name="beauty">美图精选</string>
+    <string name="qingyunke">智能机器人</string>
+    <string name="about">关于简·阅</string>
+    <string name="one">每日一句</string>
+
+    <string-array name="welcome_tips">
+        <item>主人，等你好久了</item>
+        <item>主人，快来和我聊天</item>
+        <item>坐好，我要飙车了</item>
+        <item>你好，我叫菲菲</item>
+        <item>AlphaGo是我哥</item>
+        <item>你好，我叫菲菲</item>
+    </string-array>
+    <string name="translate">中英互译</string>
+    <string name="version">简·阅 1.0.0</string>
+</resources>
